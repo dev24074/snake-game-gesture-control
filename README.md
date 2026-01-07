@@ -1,13 +1,8 @@
 # 🐍 Nokia Snake Game - Gesture Control
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)](https://opencv.org)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-orange.svg)](https://mediapipe.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+**Created by Devanand B**
 
-**Created by Tuba Khan**
-
-A classic Nokia Snake game controlled by hand gestures via webcam using MediaPipe and OpenCV. Experience the nostalgia of Nokia Snake with modern AI-powered gesture recognition!
+A classic Snake game controlled by hand gestures via webcam using MediaPipe and OpenCV. Experience the nostalgia of Nokia Snake with modern AI-powered gesture recognition!
 
 ## Features
 
@@ -187,9 +182,9 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-**Created by Tuba Khan** :)
+**Created by Devanand B** :)
 
-- GitHub: [@tubakhxn](https://github.com/tubakhxn)
+- GitHub:dev24074 [https://github.com/dev24074]
 - A passionate developer creating innovative gaming experiences with AI and computer vision
 
 ## Credits
@@ -198,7 +193,7 @@ This project is open source and available under the MIT License.
 - **OpenCV** for computer vision capabilities  
 - **Pygame** for game development framework
 - Inspired by the classic **Nokia Snake** game
-- **Developed by Tuba Khan** - bringing classic games into the modern age with gesture control
+- **Developed by Devanand B** - bringing classic games into the modern age with gesture control
 
 ---
 
